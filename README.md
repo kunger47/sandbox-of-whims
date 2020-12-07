@@ -6,3 +6,4 @@ Current Works
 - Evolution (Name needs workshopped)
 - Zoologic
 - Clueless (Clue Master Detective Board game solver)
+- Wordtris (Norsk ord jeg vet)
